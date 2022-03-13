@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Mar 2022 18:57:24 at https://pe.landlrev.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pe.landlrev.com/ -O1 "C:\My Web Sites\bioforce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:57:25	Warning: 	Moved Temporarily for https://pe.landlrev.com/
+18:57:25	Warning: 	File has moved from https://pe.landlrev.com/ to https://pe.landlrev.com/?c=vn
+18:57:37	Error: 	"Gone" (410) at link https://pe.landlrev.com/images/block3_(3 (from https://pe.landlrev.com/css/style.css)
+18:57:37	Error: 	"Gone" (410) at link https://pe.landlrev.com/images/step2_backgorund.jpg (from https://pe.landlrev.com/css/style.css)
+18:57:37	Error: 	"Gone" (410) at link https://pe.landlrev.com/images/bx_loader.gif (from https://pe.landlrev.com/css/jquery.bxslider.css)
+18:57:37	Error: 	"Gone" (410) at link https://pe.landlrev.com/images/controls.png (from https://pe.landlrev.com/css/jquery.bxslider.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 45 links scanned, 39 files written (927721 bytes overall) [831442 bytes received at 63957 bytes/sec], 172723 bytes transferred using HTTP compression in 10 files, ratio 35%, 15.0 requests per connection
+(4 errors, 2 warnings, 0 messages)
